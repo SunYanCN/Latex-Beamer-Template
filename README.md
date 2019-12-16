@@ -4,7 +4,13 @@
 
 # Usage
 
-首先，你应当从[Github](https://github.com/YiZhiXiaoGuLI/Latex-Beamer-Template)上下载该模板，确保你的电脑（Windows）上安装了Ctex中文套装和TexStudio编辑器（不用担心费用，两者均是开源软件），使用Xelatex编译文档即可。
+1. 确保你的电脑上安装了Ctex中文套装和TexStudio编辑器（两者均是开源软件）
+
+2. clone项目
+```bash
+git clone https://github.com/SunYanCN/Latex-Beamer-Template
+```
+3. 使用Xelatex编译文档即可
 
 # Demo
 
