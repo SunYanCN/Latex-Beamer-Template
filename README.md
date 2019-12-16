@@ -17,17 +17,14 @@
 - [LaTeX制作Beamer(一)](https://zhuanlan.zhihu.com/p/36868831)
 - [LaTeX制作Beamer(二)](https://zhuanlan.zhihu.com/p/39177705)
 
-## 博客
-
-1. [Latex制作Beamer(1):导言区测试](http://sunyanqinyin.cn/?p=264)
-2. [Latex制作Beamer(2):封面、目录和图片](http://sunyanqinyin.cn/?p=267)
-3. [Latex制作Beamer(3):罗列式和主题式](http://sunyanqinyin.cn/?p=272)
-4. [Latex制作Beamer(4):算法和代码](http://sunyanqinyin.cn/?p=275)
-
 # Others
 
 这个模板是我参阅的一个南方科技大学的模板，原模板是英文的，我将其修改为中文并加入了常用的算法和表格等内容，在此感谢原作者。
 
 # Me
 
-如果你有任何问题或者有改进的意见也可以联系我：sunyanqinyin@foxmail.com。
+如果你有任何问题或者有改进的意见也可以联系我：sunyanhust@163.com。
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/SunYanCN/BAND.svg)](https://starchart.cc/SunYanCN/BAND)
