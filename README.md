@@ -31,6 +31,8 @@ git clone https://github.com/SunYanCN/Latex-Beamer-Template
 
 如果你有任何问题或者有改进的意见也可以联系我：sunyanhust@163.com。
 
+
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/SunYanCN/BAND.svg)](https://starchart.cc/SunYanCN/BAND)
+[![Stargazers over time](https://starchart.cc/SunYanCN/Latex-Beamer-Template.svg)](https://starchart.cc/SunYanCN/Latex-Beamer-Template)
+
